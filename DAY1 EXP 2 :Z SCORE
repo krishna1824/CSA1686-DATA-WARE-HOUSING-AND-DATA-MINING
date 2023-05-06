@@ -1,4 +1,3 @@
-  121 Bytes
  data<-mtcars
 data
 a<-c(data$mpg)
