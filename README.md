@@ -59,3 +59,7 @@ DAY2-PROGRAMMS
 
 13.RANGE
 
+14.Normal Distribution
+
+15.Decision Tree
+
